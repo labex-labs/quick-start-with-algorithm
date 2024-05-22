@@ -10,8 +10,8 @@ This course offers numerous interactive coding challenges to help you comprehend
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | URL                                                                        |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 🎯 Permutation Check of String Pairs                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268804'>Start Challenge</a> |
 |      02 | 🎯 Solving the Two Sum Problem                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268809'>Start Challenge</a> |
 |      03 | 🎯 Compress String Using Python                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268801'>Start Challenge</a> |
