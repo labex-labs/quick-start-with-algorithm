@@ -4,8 +4,8 @@
 
 This course offers numerous interactive coding challenges to help you comprehend and implement algorithms quickly. The challenges were designed by Donne Martin and are available in the GitHub repository donnemartin/interactive-coding-challenges.
 
-![Algorithm](https://img.shields.io/badge/Algorithm-whitesmoke?style=for-the-badge&logo=algorithm&link=https%3A%2F%2Flabex.io%2Fskilltrees)
-![Python](https://img.shields.io/badge/Python-whitesmoke?style=for-the-badge&logo=python&link=https%3A%2F%2Flabex.io%2Fskilltrees)
+![Algorithm](https://img.shields.io/badge/Algorithm-whitesmoke?style=for-the-badge&logo=algorithm)
+![Python](https://img.shields.io/badge/Python-whitesmoke?style=for-the-badge&logo=python)
 
 
 ## Scenarios
