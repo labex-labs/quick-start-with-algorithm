@@ -105,6 +105,7 @@ This course offers numerous interactive coding challenges to help you comprehend
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
