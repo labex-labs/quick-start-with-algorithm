@@ -10,7 +10,7 @@ This course offers numerous interactive coding challenges to help you comprehend
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|   Index | Name                                                    | Difficulty   | Practice                                                                   |
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 🎯 Permutation Check of String Pairs                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268804'>Start Challenge</a> |
 |      02 | 🎯 Solving the Two Sum Problem                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268809'>Start Challenge</a> |
@@ -102,4 +102,9 @@ This course offers numerous interactive coding challenges to help you comprehend
 |      88 | 🎯 Find Next Largest Smallest Binary Numbers             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268815'>Start Challenge</a> |
 |      89 | 🎯 Binary Representation of Real Numbers                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268818'>Start Challenge</a> |
 |      90 | 🎯 Implementing Line Drawing Algorithm                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268813'>Start Challenge</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
