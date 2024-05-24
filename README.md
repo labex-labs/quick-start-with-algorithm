@@ -1,6 +1,6 @@
 # Quick Start with Algorithm
 
-![Quick Start with Algorithm](https://cover-creator.labex.io/quick-start-with-algorithm.png)
+![Quick Start with Algorithm](https://cover-creator.appbot.io/quick-start-with-algorithm.png)
 
 This course offers numerous interactive coding challenges to help you comprehend and implement algorithms quickly. The challenges were designed by Donne Martin and are available in the GitHub repository donnemartin/interactive-coding-challenges.
 
