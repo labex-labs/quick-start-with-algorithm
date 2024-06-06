@@ -86,7 +86,7 @@ This course offers numerous interactive coding challenges to help you comprehend
 |      72 | 🎯 Optimizing 2x2 Matrix Multiplication                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268867'>Start Challenge</a> |
 |      73 | 🎯 Identifying Magic Indexes in Arrays                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268866'>Start Challenge</a> |
 |      74 | 🎯 Python Challenge: Longest Common Substring            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268865'>Start Challenge</a> |
-|      75 | 🎯 Coin Change Problem Solution                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268856'>Start Challenge</a> |
+|      75 | 🎯 Optimal Coin Change Solution                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268856'>Start Challenge</a> |
 |      76 | 🎯 Robot Grid Path Planning                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268858'>Start Challenge</a> |
 |      77 | 🎯 Primality Test in Python                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268849'>Start Challenge</a> |
 |      78 | 🎯 Integers Manipulation Python                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268848'>Start Challenge</a> |
