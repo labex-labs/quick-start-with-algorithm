@@ -33,7 +33,7 @@ This course offers numerous interactive coding challenges to help you comprehend
 |      19 | 🎯 Palindrome Detection in Linked Lists                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268845'>Start Challenge</a> |
 |      20 | 🎯 Implementing Multiple Stacks Using Array              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268883'>Start Challenge</a> |
 |      21 | 🎯 Sorting Stack Using Additional Stack                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268887'>Start Challenge</a> |
-|      22 | 🎯 Set Of Stacks                                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268886'>Start Challenge</a> |
+|      22 | 🎯 Set of Stacks                                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268886'>Start Challenge</a> |
 |      23 | 🎯 Implement O(1) Stack with Push, Pop, Min              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268888'>Start Challenge</a> |
 |      24 | 🎯 Implementing Queue Using Linked List                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268885'>Start Challenge</a> |
 |      25 | 🎯 Concise Introduction to Stacks                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268889'>Start Challenge</a> |
