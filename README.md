@@ -26,8 +26,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                       |
-|---------|----------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Practice                                                                                                                                       |
+|---------|---------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 🎯 Permutation Check of String Pairs                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/algorithm-permutation-check-of-string-pairs-268804'>Start Challenge</a>                    |
 |      02 | 🎯 Solving the Two Sum Problem                           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/algorithm-solving-the-two-sum-problem-268809'>Start Challenge</a>                          |
 |      03 | 🎯 Compress String Using Python                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/algorithm-compress-string-using-python-268801'>Start Challenge</a>                         |
