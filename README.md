@@ -1,6 +1,6 @@
 # Quick Start with Algorithm
 
-[![Quick Start with Algorithm](https://cover-creator.appbot.io/quick-start-with-algorithm.png)](https://labex.io/courses/quick-start-with-algorithm)
+[![Quick Start with Algorithm](https://cover-creator.labex.io/quick-start-with-algorithm.png)](https://labex.io/courses/quick-start-with-algorithm)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-algorithm)
 
@@ -16,7 +16,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -26,10 +26,10 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                    | Difficulty   | Practice                                                                                                                                  |
-|---------|---------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 🎯 Permutation Check of String Pairs                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/algorithm-permutation-check-of-string-pairs-268804'>Start Challenge</a>                    |
-|      02 | 🎯 Solving the Two Sum Problem                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/algorithm-solving-the-two-sum-problem-268809'>Start Challenge</a>                          |
+|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                  |
+|---------|----------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 🎯 Permutation Check of String Pairs                     | ★★★          | <a target='_blank' href='https://labex.io/labs/algorithm-permutation-check-of-string-pairs-268804'>Start Challenge</a>                    |
+|      02 | 🎯 Solving the Two Sum Problem                           | ★★☆          | <a target='_blank' href='https://labex.io/labs/algorithm-solving-the-two-sum-problem-268809'>Start Challenge</a>                          |
 |      03 | 🎯 Compress String Using Python                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/algorithm-compress-string-using-python-268801'>Start Challenge</a>                         |
 |      04 | 🎯 Implement Hash Table with Key-Value Operations        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/algorithm-implement-hash-table-with-key-value-operations-268803'>Start Challenge</a>       |
 |      05 | 🎯 Find Differing Character in Strings                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/algorithm-find-differing-character-in-strings-268808'>Start Challenge</a>                  |
